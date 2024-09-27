@@ -61,6 +61,10 @@ Access the dashboard through your web browser at [http://localhost:8501](http://
 - **Facebook API Errors**: Ensure that your API credentials are correct and that you have the necessary permissions for the actions you’re trying to perform.
 - **Model Integration Issues**: Check the connectivity between the Gemini model and your application; ensure the model is running and accessible.
 
+https://github.com/user-attachments/assets/d6ee1ecb-887e-4dc9-9778-858e53797d2e
+
+
+
 ## 📊 Market Analysis
 
 ![WhatsApp Image 2024-09-20 at 19 59 35_76989b5e](https://github.com/user-attachments/assets/da2d2b5b-47c3-4ef0-acaf-422fb63709ec)
