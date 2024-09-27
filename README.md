@@ -1,3 +1,9 @@
+## 🛠️ Technologies Used
+
+- ![Streamlit](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Streamlit-logo-primary-colormark-darktext.png/220px-Streamlit-logo-primary-colormark-darktext.png) **[Streamlit](https://streamlit.io/)**: For building the interactive user dashboard.
+- ![Facebook Marketing API](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg) **[Facebook Marketing API](https://developers.facebook.com/docs/marketing-api/)**: To handle ad creation, targeting updates, and campaign management on Facebook.
+- ![Gemini Model](https://path_to_gemini_logo) **[Gemini Model](#)**: For generating ad content and performing data-driven audience analysis.
+
 ---
 
 # 🚀 Automated Ad Generation and Audience Targeting System
