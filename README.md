@@ -1,11 +1,5 @@
-## 🛠️ Technologies Used
-
-- ![Streamlit](![image](https://github.com/user-attachments/assets/ae9e360d-4c81-406f-9bb9-64e2c01a8fbb)) **[Streamlit](https://streamlit.io/)**
-- ![Facebook Marketing API](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg) **[Facebook Marketing API](https://developers.facebook.com/docs/marketing-api/)**
-- ![Gemini Model](https://path_to_gemini_logo) **[Gemini Model](#)**
 
 ---
-
 # 🚀 Automated Ad Generation and Audience Targeting System
 
 ## Overview
