@@ -1,4 +1,4 @@
-
+https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png
 ---
 # 🚀 Automated Ad Generation and Audience Targeting System
 
