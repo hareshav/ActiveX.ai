@@ -1,6 +1,5 @@
-Here is the updated README file code with relevant emojis:
+---
 
-```markdown
 # 🚀 Automated Ad Generation and Audience Targeting System
 
 ## Overview
@@ -65,4 +64,5 @@ Access the dashboard through your web browser at [http://localhost:8501](http://
 ## 📬 Contact
 
 For any questions or support, please contact [haresha412@gmail.com](mailto:haresha412@gmail.com).
-```
+
+---
